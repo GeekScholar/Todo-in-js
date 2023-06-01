@@ -9,10 +9,11 @@ Simple and Intuitive: The interface is designed to be straightforward and easy t
 Demo
 You can try out the live demo of the To-Do List web app by visiting the following link: Demo Link
 
-Installation
+**Installation**
 To use the To-Do List web app locally, follow these steps:
 
-Clone the repository: git clone https://github.com/GeekScholar/Todo-in-js.git
+**Clone the repository:**
+git clone https://github.com/GeekScholar/Todo-in-js.git
 Navigate to the project directory: cd to-do-list
 Open the index.html file in your preferred web browser.
 Usage
@@ -22,15 +23,15 @@ Deleting a Task: To remove a task, click on the "X" button next to the task.
 Customization
 You can customize the look and feel of the To-Do List web app by modifying the CSS styles in the styles.css file. Feel free to customize colors, fonts, or layout according to your preferences.
 
-Contributing
+**Contributing**
 Contributions to this project are welcome. If you find any bugs or have suggestions for improvements, please submit an issue or create a pull request.
 
 When contributing to this repository, please first discuss the changes you wish to make by creating an issue before making a pull request.
 
-License
+**License**
 This project is licensed under the MIT License. You are free to use, modify, and distribute this application as per the terms of the license.
 
-Acknowledgements
+**Acknowledgements**
 This project was inspired by the need for a simple and efficient to-do list application.
 Special thanks to the contributors and open-source projects that helped in the development of this web app.
 Contact
